@@ -1,0 +1,5 @@
+kek
+piros
+s rga
+zold git config --global user.email
+zold 
