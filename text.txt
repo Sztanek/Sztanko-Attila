@@ -1,0 +1,6 @@
+copy con text1.txt
+make con text2.txt
+git status
+
+
+cd destop
